@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{049C1D83-CE77-4629-8409-5E8082B20B45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension", "Extension\Extension.csproj", "{783C735D-DD15-4C92-A7CA-A029A134C28E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{049C1D83-CE77-4629-8409-5E8082B20B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{049C1D83-CE77-4629-8409-5E8082B20B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{049C1D83-CE77-4629-8409-5E8082B20B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783C735D-DD15-4C92-A7CA-A029A134C28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783C735D-DD15-4C92-A7CA-A029A134C28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783C735D-DD15-4C92-A7CA-A029A134C28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783C735D-DD15-4C92-A7CA-A029A134C28E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
