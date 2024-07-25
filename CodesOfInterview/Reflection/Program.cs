@@ -13,7 +13,7 @@ Type type = typeof(Person);
             Console.WriteLine("Property: " + property.Name + ", Type: " + property.PropertyType.Name);
         }
 
-        // Metotları listeleme
+        // Metotları listelemeÍ
         MethodInfo[] methods = type.GetMethods();
         foreach (var method in methods)
         {
